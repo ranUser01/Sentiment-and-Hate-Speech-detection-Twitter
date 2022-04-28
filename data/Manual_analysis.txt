@@ -1,400 +1,500 @@
-Janusz 1 OFF
-Janusz 2 NOT
-Janusz 3 NOT
-Janusz 4 NOT
-Janusz 5 NOT
-Janusz 6 NOT
-Janusz 7 NOT
-Janusz 8 NOT
-Janusz 9 OFF
-Janusz 10 OFF
-Janusz 11 OFF
-Janusz 12 NOT
-Janusz 13 NOT
-Janusz 14 NOT
-Janusz 15 NOT
-Janusz 16 NOT
-Janusz 17 NOT
-Janusz 18 NOT
-Janusz 19 NOT
-Janusz 20 OFF
-Janusz 21 NOT
-Janusz 22 NOT
-Janusz 23 NOT
-Janusz 24 OFF
-Janusz 25 OFF
-Janusz 26 NOT
-Janusz 27 NOT
-Janusz 28 OFF
-Janusz 29 NOT
-Janusz 30 NOT
-Janusz 31 NOT
-Janusz 32 NOT
-Janusz 33 NOT
-Janusz 34 NOT
-Janusz 35 NOT
-Janusz 36 NOT
-Janusz 37 NOT
-Janusz 38 OFF
-Janusz 39 NOT
-Janusz 40 NOT
-Janusz 41 OFF
-Janusz 42 NOT
-Janusz 43 NOT
-Janusz 44 NOT
-Janusz 45 NOT
-Janusz 46 OFF
-Janusz 47 NOT
-Janusz 48 OFF
-Janusz 49 NOT
-Janusz 50 OFF
-Janusz 51 OFF
-Janusz 52 NOT
-Janusz 53 NOT
-Janusz 54 OFF
-Janusz 55 NOT
-Janusz 56 NOT
-Janusz 57 NOT
-Janusz 58 NOT
-Janusz 59 NOT
-Janusz 60 NOT
-Janusz 61 NOT
-Janusz 62 NOT
-Janusz 63 OFF
-Janusz 64 NOT
-Janusz 65 OFF
-Janusz 66 NOT
-Janusz 67 OFF
-Janusz 68 OFF
-Janusz 69 NOT
-Janusz 70 OFF
-Janusz 71 OFF
-Janusz 72 NOT
-Janusz 73 NOT
-Janusz 74 OFF
-Janusz 75 OFF
-Janusz 76 NOT
-Janusz 77 NOT
-Janusz 78 NOT
-Janusz 79 OFF
-Janusz 80 OFF
-Janusz 81 NOT
-Janusz 82 NOT
-Janusz 83 NOT
-Janusz 84 NOT
-Janusz 85 NOT
-Janusz 86 NOT
-Janusz 87 NOT
-Janusz 88 NOT
-Janusz 89 NOT
-Janusz 90 NOT
-Janusz 91 NOT
-Janusz 92 NOT
-Janusz 93 NOT
-Janusz 94 NOT
-Janusz 95 NOT
-Janusz 96 NOT
-Janusz 97 OFF
-Janusz 98 NOT
-Janusz 99 NOT
-Janusz 100 OFF
-Julia 1 OFF
-Julia 2 NOT
-Julia 3 NOT
-Julia 4 NOT
-Julia 5 OFF
-Julia 6 OFF
-Julia 7 OFF
-Julia 8 OFF
-Julia 9 NOT
-Julia 10 NOT
-Julia 11 NOT
-Julia 12 NOT
-Julia 13 NOT
-Julia 14 NOT
-Julia 15 NOT
-Julia 16 NOT
-Julia 17 OFF
-Julia 18 OFF
-Julia 19 NOT
-Julia 20 NOT
-Julia 21 NOT
-Julia 22 NOT
-Julia 23 NOT
-Julia 24 NOT
-Julia 25 NOT
-Julia 26 NOT
-Julia 27 OFF
-Julia 28 NOT
-Julia 29 NOT
-Julia 30 OFF
-Julia 31 NOT
-Julia 32 NOT
-Julia 33 NOT
-Julia 34 NOT
-Julia 35 NOT
-Julia 36 NOT
-Julia 37 NOT
-Julia 38 NOT
-Julia 39 NOT
-Julia 40 NOT
-Julia 41 OFF
-Julia 42 NOT
-Julia 43 NOT
-Julia 44 NOT
-Julia 45 OFF
-Julia 46 NOT
-Julia 47 NOT
-Julia 48 NOT
-Julia 49 OFF
-Julia 50 OFF
-Julia 51 NOT
-Julia 52 OFF
-Julia 53 NOT
-Julia 54 OFF
-Julia 55 NOT
-Julia 56 NOT
-Julia 57 NOT
-Julia 58 NOT
-Julia 59 OFF
-Julia 60 NOT
-Julia 61 NOT
-Julia 62 NOT
-Julia 63 NOT
-Julia 64 OFF
-Julia 65 NOT
-Julia 66 NOT
-Julia 67 NOT
-Julia 68 NOT
-Julia 69 OFF
-Julia 70 OFF
-Julia 71 NOT
-Julia 72 OFF
-Julia 73 NOT
-Julia 74 NOT
-Julia 75 NOT
-Julia 76 NOT
-Julia 77 NOT
-Julia 78 NOT
-Julia 79 NOT
-Julia 80 NOT
-Julia 81 NOT
-Julia 82 NOT
-Julia 83 NOT
-Julia 84 NOT
-Julia 85 OFF
-Julia 86 OFF
-Julia 87 OFF
-Julia 88 NOT
-Julia 89 NOT
-Julia 90 OFF
-Julia 91 NOT
-Julia 92 NOT
-Julia 93 NOT
-Julia 94 NOT
-Julia 95 NOT
-Julia 96 NOT
-Julia 97 OFF
-Julia 98 OFF
-Julia 99 OFF
-Julia 100 NOT
-Lini 1 OFF
-Lini 2 OFF
-Lini 3 NOT
-Lini 4 NOT
-Lini 5 OFF
-Lini 6 OFF
-Lini 7 OFF
-Lini 8 OFF
-Lini 9 NOT
-Lini 10 NOT
-Lini 11 OFF
-Lini 12 OFF
-Lini 13 NOT
-Lini 14 NOT
-Lini 15 OFF
-Lini 16 NOT
-Lini 17 OFF
-Lini 18 OFF
-Lini 19 NOT
-Lini 20 NOT
-Lini 21 NOT
-Lini 22 NOT
-Lini 23 NOT
-Lini 24 NOT
-Lini 25 NOT
-Lini 26 OFF
-Lini 27 OFF
-Lini 28 NOT
-Lini 29 NOT
-Lini 30 NOT
-Lini 31 NOT
-Lini 32 NOT
-Lini 33 NOT
-Lini 34 NOT
-Lini 35 NOT
-Lini 36 NOT
-Lini 37 NOT
-Lini 38 NOT
-Lini 39 OFF
-Lini 40 NOT
-Lini 41 OFF
-Lini 42 NOT
-Lini 43 NOT
-Lini 44 NOT
-Lini 45 OFF
-Lini 46 NOT
-Lini 47 NOT
-Lini 48 NOT
-Lini 49 OFF
-Lini 50 OFF
-Lini 51 NOT
-Lini 52 OFF
-Lini 53 NOT
-Lini 54 OFF
-Lini 55 OFF
-Lini 56 OFF
-Lini 57 OFF
-Lini 58 OFF
-Lini 59 OFF
-Lini 60 NOT
-Lini 61 NOT
-Lini 62 NOT
-Lini 63 NOT
-Lini 64 OFF
-Lini 65 NOT
-Lini 66 NOT
-Lini 67 NOT
-Lini 68 NOT
-Lini 69 OFF
-Lini 70 OFF
-Lini 71 NOT
-Lini 72 OFF
-Lini 73 NOT
-Lini 74 NOT
-Lini 75 NOT
-Lini 76 NOT
-Lini 77 NOT
-Lini 78 NOT
-Lini 79 NOT
-Lini 80 NOT
-Lini 81 NOT
-Lini 82 NOT
-Lini 83 OFF
-Lini 84 NOT
-Lini 85 OFF
-Lini 86 NOT
-Lini 87 NOT
-Lini 88 NOT
-Lini 89 NOT
-Lini 90 OFF
-Lini 91 NOT
-Lini 92 NOT
-Lini 93 NOT
-Lini 94 OFF
-Lini 95 NOT
-Lini 96 NOT
-Lini 97 OFF
-Lini 98 OFF
-Lini 99 NOT
-Lini 100 OFF
-Oskar 1 OFF
-Oskar 2 OFF
-Oskar 3 NOT
-Oskar 4 NOT
-Oskar 5 OFF
-Oskar 6 OFF
-Oskar 7 OFF
-Oskar 8 OFF
-Oskar 9 NOT
-Oskar 10 NOT
-Oskar 11 OFF
-Oskar 12 OFF
-Oskar 13 NOT
-Oskar 14 NOT
-Oskar 15 NOT
-Oskar 16 NOT
-Oskar 17 OFF
-Oskar 18 OFF
-Oskar 19 NOT
-Oskar 20 OFF
-Oskar 21 OFF
-Oskar 22 OFF
-Oskar 23 NOT
-Oskar 24 NOT
-Oskar 25 OFF
-Oskar 26 NOT
-Oskar 27 OFF
-Oskar 28 NOT
-Oskar 29 NOT
-Oskar 30 NOT
-Oskar 31 NOT
-Oskar 32 OFF
-Oskar 33 NOT
-Oskar 34 NOT
-Oskar 35 NOT
-Oskar 36 NOT
-Oskar 37 NOT
-Oskar 38 NOT
-Oskar 39 NOT
-Oskar 40 NOT
-Oskar 41 OFF
-Oskar 42 NOT
-Oskar 43 NOT
-Oskar 44 NOT
-Oskar 45 NOT
-Oskar 46 NOT
-Oskar 47 NOT
-Oskar 48 NOT
-Oskar 49 OFF
-Oskar 50 OFF
-Oskar 51 NOT
-Oskar 52 NOT
-Oskar 53 NOT
-Oskar 54 OFF
-Oskar 55 NOT
-Oskar 56 NOT
-Oskar 57 NOT
-Oskar 58 OFF
-Oskar 59 OFF
-Oskar 60 NOT
-Oskar 61 NOT
-Oskar 62 NOT
-Oskar 63 NOT
-Oskar 64 OFF
-Oskar 65 NOT
-Oskar 66 NOT
-Oskar 67 NOT
-Oskar 68 OFF
-Oskar 69 NOT
-Oskar 70 OFF
-Oskar 71 NOT
-Oskar 72 NOT
-Oskar 73 OFF
-Oskar 74 NOT
-Oskar 75 NOT
-Oskar 76 NOT
-Oskar 77 NOT
-Oskar 78 NOT
-Oskar 79 NOT
-Oskar 80 NOT
-Oskar 81 NOT
-Oskar 82 NOT
-Oskar 83 OFF
-Oskar 84 OFF
-Oskar 85 OFF
-Oskar 86 OFF
-Oskar 87 OFF
-Oskar 88 OFF
-Oskar 89 NOT
-Oskar 90 OFF
-Oskar 91 NOT
-Oskar 92 OFF
-Oskar 93 NOT
-Oskar 94 OFF
-Oskar 95 NOT
-Oskar 96 NOT
-Oskar 97 OFF
-Oskar 98 OFF
-Oskar 99 OFF
-Oskar 100 OFF
+Janusz 1 1
+Janusz 2 0
+Janusz 3 0
+Janusz 4 0
+Janusz 5 0
+Janusz 6 0
+Janusz 7 0
+Janusz 8 0
+Janusz 9 1
+Janusz 10 1
+Janusz 11 1
+Janusz 12 0
+Janusz 13 0
+Janusz 14 0
+Janusz 15 0
+Janusz 16 0
+Janusz 17 0
+Janusz 18 0
+Janusz 19 0
+Janusz 20 1
+Janusz 21 0
+Janusz 22 0
+Janusz 23 0
+Janusz 24 1
+Janusz 25 1
+Janusz 26 0
+Janusz 27 0
+Janusz 28 1
+Janusz 29 0
+Janusz 30 0
+Janusz 31 0
+Janusz 32 0
+Janusz 33 0
+Janusz 34 0
+Janusz 35 0
+Janusz 36 0
+Janusz 37 0
+Janusz 38 1
+Janusz 39 0
+Janusz 40 0
+Janusz 41 1
+Janusz 42 0
+Janusz 43 0
+Janusz 44 0
+Janusz 45 0
+Janusz 46 1
+Janusz 47 0
+Janusz 48 1
+Janusz 49 0
+Janusz 50 1
+Janusz 51 1
+Janusz 52 0
+Janusz 53 0
+Janusz 54 1
+Janusz 55 0
+Janusz 56 0
+Janusz 57 0
+Janusz 58 0
+Janusz 59 0
+Janusz 60 0
+Janusz 61 0
+Janusz 62 0
+Janusz 63 1
+Janusz 64 0
+Janusz 65 1
+Janusz 66 0
+Janusz 67 1
+Janusz 68 1
+Janusz 69 0
+Janusz 70 1
+Janusz 71 1
+Janusz 72 0
+Janusz 73 0
+Janusz 74 1
+Janusz 75 1
+Janusz 76 0
+Janusz 77 0
+Janusz 78 0
+Janusz 79 1
+Janusz 80 1
+Janusz 81 0
+Janusz 82 0
+Janusz 83 0
+Janusz 84 0
+Janusz 85 0
+Janusz 86 0
+Janusz 87 0
+Janusz 88 0
+Janusz 89 0
+Janusz 90 0
+Janusz 91 0
+Janusz 92 0
+Janusz 93 0
+Janusz 94 0
+Janusz 95 0
+Janusz 96 0
+Janusz 97 1
+Janusz 98 0
+Janusz 99 0
+Janusz 100 1
+Julia 1 1
+Julia 2 0
+Julia 3 0
+Julia 4 0
+Julia 5 1
+Julia 6 1
+Julia 7 1
+Julia 8 1
+Julia 9 0
+Julia 10 0
+Julia 11 0
+Julia 12 0
+Julia 13 0
+Julia 14 0
+Julia 15 0
+Julia 16 0
+Julia 17 1
+Julia 18 1
+Julia 19 0
+Julia 20 0
+Julia 21 0
+Julia 22 0
+Julia 23 0
+Julia 24 0
+Julia 25 0
+Julia 26 0
+Julia 27 1
+Julia 28 0
+Julia 29 0
+Julia 30 1
+Julia 31 0
+Julia 32 0
+Julia 33 0
+Julia 34 0
+Julia 35 0
+Julia 36 0
+Julia 37 0
+Julia 38 0
+Julia 39 0
+Julia 40 0
+Julia 41 1
+Julia 42 0
+Julia 43 0
+Julia 44 0
+Julia 45 1
+Julia 46 0
+Julia 47 0
+Julia 48 0
+Julia 49 1
+Julia 50 1
+Julia 51 0
+Julia 52 1
+Julia 53 0
+Julia 54 1
+Julia 55 0
+Julia 56 0
+Julia 57 0
+Julia 58 0
+Julia 59 1
+Julia 60 0
+Julia 61 0
+Julia 62 0
+Julia 63 0
+Julia 64 1
+Julia 65 0
+Julia 66 0
+Julia 67 0
+Julia 68 0
+Julia 69 1
+Julia 70 1
+Julia 71 0
+Julia 72 1
+Julia 73 0
+Julia 74 0
+Julia 75 0
+Julia 76 0
+Julia 77 0
+Julia 78 0
+Julia 79 0
+Julia 80 0
+Julia 81 0
+Julia 82 0
+Julia 83 0
+Julia 84 0
+Julia 85 1
+Julia 86 1
+Julia 87 1
+Julia 88 0
+Julia 89 0
+Julia 90 1
+Julia 91 0
+Julia 92 0
+Julia 93 0
+Julia 94 0
+Julia 95 0
+Julia 96 0
+Julia 97 1
+Julia 98 1
+Julia 99 1
+Julia 100 0
+Lini 1 1
+Lini 2 1
+Lini 3 0
+Lini 4 0
+Lini 5 1
+Lini 6 1
+Lini 7 1
+Lini 8 1
+Lini 9 0
+Lini 10 0
+Lini 11 1
+Lini 12 1
+Lini 13 0
+Lini 14 0
+Lini 15 1
+Lini 16 0
+Lini 17 1
+Lini 18 1
+Lini 19 0
+Lini 20 0
+Lini 21 0
+Lini 22 0
+Lini 23 0
+Lini 24 0
+Lini 25 0
+Lini 26 1
+Lini 27 1
+Lini 28 0
+Lini 29 0
+Lini 30 0
+Lini 31 0
+Lini 32 0
+Lini 33 0
+Lini 34 0
+Lini 35 0
+Lini 36 0
+Lini 37 0
+Lini 38 0
+Lini 39 1
+Lini 40 0
+Lini 41 1
+Lini 42 0
+Lini 43 0
+Lini 44 0
+Lini 45 1
+Lini 46 0
+Lini 47 0
+Lini 48 0
+Lini 49 1
+Lini 50 1
+Lini 51 0
+Lini 52 1
+Lini 53 0
+Lini 54 1
+Lini 55 1
+Lini 56 1
+Lini 57 1
+Lini 58 1
+Lini 59 1
+Lini 60 0
+Lini 61 0
+Lini 62 0
+Lini 63 0
+Lini 64 1
+Lini 65 0
+Lini 66 0
+Lini 67 0
+Lini 68 0
+Lini 69 1
+Lini 70 1
+Lini 71 0
+Lini 72 1
+Lini 73 0
+Lini 74 0
+Lini 75 0
+Lini 76 0
+Lini 77 0
+Lini 78 0
+Lini 79 0
+Lini 80 0
+Lini 81 0
+Lini 82 0
+Lini 83 1
+Lini 84 0
+Lini 85 1
+Lini 86 0
+Lini 87 0
+Lini 88 0
+Lini 89 0
+Lini 90 1
+Lini 91 0
+Lini 92 0
+Lini 93 0
+Lini 94 1
+Lini 95 0
+Lini 96 0
+Lini 97 1
+Lini 98 1
+Lini 99 0
+Lini 100 1
+Oskar 1 1
+Oskar 2 1
+Oskar 3 0
+Oskar 4 0
+Oskar 5 1
+Oskar 6 1
+Oskar 7 1
+Oskar 8 1
+Oskar 9 0
+Oskar 10 0
+Oskar 11 1
+Oskar 12 1
+Oskar 13 0
+Oskar 14 0
+Oskar 15 0
+Oskar 16 0
+Oskar 17 1
+Oskar 18 1
+Oskar 19 0
+Oskar 20 1
+Oskar 21 1
+Oskar 22 1
+Oskar 23 0
+Oskar 24 0
+Oskar 25 1
+Oskar 26 0
+Oskar 27 1
+Oskar 28 0
+Oskar 29 0
+Oskar 30 0
+Oskar 31 0
+Oskar 32 1
+Oskar 33 0
+Oskar 34 0
+Oskar 35 0
+Oskar 36 0
+Oskar 37 0
+Oskar 38 0
+Oskar 39 0
+Oskar 40 0
+Oskar 41 1
+Oskar 42 0
+Oskar 43 0
+Oskar 44 0
+Oskar 45 0
+Oskar 46 0
+Oskar 47 0
+Oskar 48 0
+Oskar 49 1
+Oskar 50 1
+Oskar 51 0
+Oskar 52 0
+Oskar 53 0
+Oskar 54 1
+Oskar 55 0
+Oskar 56 0
+Oskar 57 0
+Oskar 58 1
+Oskar 59 1
+Oskar 60 0
+Oskar 61 0
+Oskar 62 0
+Oskar 63 0
+Oskar 64 1
+Oskar 65 0
+Oskar 66 0
+Oskar 67 0
+Oskar 68 1
+Oskar 69 0
+Oskar 70 1
+Oskar 71 0
+Oskar 72 0
+Oskar 73 1
+Oskar 74 0
+Oskar 75 0
+Oskar 76 0
+Oskar 77 0
+Oskar 78 0
+Oskar 79 0
+Oskar 80 0
+Oskar 81 0
+Oskar 82 0
+Oskar 83 1
+Oskar 84 1
+Oskar 85 1
+Oskar 86 1
+Oskar 87 1
+Oskar 88 1
+Oskar 89 0
+Oskar 90 1
+Oskar 91 0
+Oskar 92 1
+Oskar 93 0
+Oskar 94 1
+Oskar 95 0
+Oskar 96 0
+Oskar 97 1
+Oskar 98 1
+Oskar 99 1
+Oskar 100 1
+original  0
+original  1
+original  0
+original  0
+original  1
+original  0
+original  1
+original  0
+original  0
+original  0
+original  1
+original  1
+original  0
+original  0
+original  0
+original  0
+original  1
+original  1
+original  0
+original  0
+original  0
+original  1
+original  0
+original  1
+original  1
+original  1
+original  1
+original  0
+original  0
+original  0
+original  1
+original  0
+original  0
+original  0
+original  0
+original  1
+original  0
+original  0
+original  0
+original  0
+original  1
+original  1
+original  0
+original  0
+original  1
+original  0
+original  0
+original  0
+original  1
+original  1
+original  0
+original  0
+original  0
+original  1
+original  1
+original  1
+original  1
+original  0
+original  1
+original  0
+original  1
+original  0
+original  0
+original  1
+original  0
+original  1
+original  0
+original  1
+original  0
+original  1
+original  0
+original  1
+original  0
+original  0
+original  0
+original  0
+original  0
+original  0
+original  0
+original  0
+original  0
+original  0
+original  1
+original  0
+original  1
+original  1
+original  0
+original  0
+original  0
+original  1
+original  0
+original  1
+original  0
+original  1
+original  0
+original  0
+original  1
+original  1
+original  1
+original  1
