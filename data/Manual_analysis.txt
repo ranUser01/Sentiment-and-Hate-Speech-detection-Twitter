@@ -398,103 +398,103 @@ Oskar 97 1
 Oskar 98 1
 Oskar 99 1
 Oskar 100 1
-original  0
-original  1
-original  0
-original  0
-original  1
-original  0
-original  1
-original  0
-original  0
-original  0
-original  1
-original  1
-original  0
-original  0
-original  0
-original  0
-original  1
-original  1
-original  0
-original  0
-original  0
-original  1
-original  0
-original  1
-original  1
-original  1
-original  1
-original  0
-original  0
-original  0
-original  1
-original  0
-original  0
-original  0
-original  0
-original  1
-original  0
-original  0
-original  0
-original  0
-original  1
-original  1
-original  0
-original  0
-original  1
-original  0
-original  0
-original  0
-original  1
-original  1
-original  0
-original  0
-original  0
-original  1
-original  1
-original  1
-original  1
-original  0
-original  1
-original  0
-original  1
-original  0
-original  0
-original  1
-original  0
-original  1
-original  0
-original  1
-original  0
-original  1
-original  0
-original  1
-original  0
-original  0
-original  0
-original  0
-original  0
-original  0
-original  0
-original  0
-original  0
-original  0
-original  1
-original  0
-original  1
-original  1
-original  0
-original  0
-original  0
-original  1
-original  0
-original  1
-original  0
-original  1
-original  0
-original  0
-original  1
-original  1
-original  1
-original  1
+original 1 0
+original 2 1
+original 3 0
+original 4 0
+original 5 1
+original 6 0
+original 7 1
+original 8 0
+original 9 0
+original 10 0
+original 11 1
+original 12 1
+original 13 0
+original 14 0
+original 15 0
+original 16 0
+original 17 1
+original 18 1
+original 19 0
+original 20 0
+original 21 0
+original 22 1
+original 23 0
+original 24 1
+original 25 1
+original 26 1
+original 27 1
+original 28 0
+original 29 0
+original 30 0
+original 31 1
+original 32 0
+original 33 0
+original 34 0
+original 35 0
+original 36 1
+original 37 0
+original 38 0
+original 39 0
+original 40 0
+original 41 1
+original 42 1
+original 43 0
+original 44 0
+original 45 1
+original 46 0
+original 47 0
+original 48 0
+original 49 1
+original 50 1
+original 51 0
+original 52 0
+original 53 0
+original 54 1
+original 55 1
+original 56 1
+original 57 1
+original 58 0
+original 59 1
+original 60 0
+original 61 1
+original 62 0
+original 63 0
+original 64 1
+original 65 0
+original 66 1
+original 67 0
+original 68 1
+original 69 0
+original 70 1
+original 71 0
+original 72 1
+original 73 0
+original 74 0
+original 75 0
+original 76 0
+original 77 0
+original 78 0
+original 79 0
+original 80 0
+original 81 0
+original 82 0
+original 83 1
+original 84 0
+original 85 1
+original 86 1
+original 87 0
+original 88 0
+original 89 0
+original 90 1
+original 91 0
+original 92 1
+original 93 0
+original 94 1
+original 95 0
+original 96 0
+original 97 1
+original 98 1
+original 99 1
+original 100 1
