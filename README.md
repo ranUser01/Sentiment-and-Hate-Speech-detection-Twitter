@@ -1,1 +1,1 @@
-# fyp2022-nlp-2022
+# Sentiment-and-Hate-Speech-detection-Twitter
